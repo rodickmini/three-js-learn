@@ -1,1 +1,1 @@
-# three-js-learn
+# three.js Learn
